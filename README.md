@@ -127,10 +127,14 @@ Saving artifacts...
 ## Accessing the Contract
 
 To interact with the contract, we access it through the truffle console
-```truffle console```
+```
+# truffle console
+```
 The interaction is similar to JavaScript.....
 To access the balance variable of the contract we run the following command
-```HelloWorld.deployed().then(a => console.log(a.balance().then(console.log)))```
+```
+# HelloWorld.deployed().then(a => console.log(a.balance().then(console.log)))
+```
 
 # To be continued...
 
