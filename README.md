@@ -26,7 +26,7 @@ Install Truffle packages
 ```
 
 ### Install testrpc
-testprc uses ethereumjs to simulate full client behavior and make developing Ethereum
+testrpc uses ethereumjs to simulate full client behavior and make developing Ethereum
 ```
 # sudo npm install -g ethereumjs-testrpc
 ```
