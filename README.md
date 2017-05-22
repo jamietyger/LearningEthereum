@@ -59,6 +59,7 @@ Creating a contract "HelloWorld" using text editor
 # gedit HelloWorld.sol 
 ```
 This is where you code your contract. Online compiler avaliable at: https://ethereum.github.io/browser-solidity
+
 For this example we will use the following code
 ```
 pragma solidity ^0.4.8;
